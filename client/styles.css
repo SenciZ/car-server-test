@@ -31,6 +31,7 @@ body{
     border: hidden;
     counter-reset: rgb(14,47,118);
     font-weight: 900;
+    cursor: pointer;
 }
 
 #generateCar:hover{
